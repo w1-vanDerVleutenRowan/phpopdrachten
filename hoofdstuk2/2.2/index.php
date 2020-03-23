@@ -1,8 +1,8 @@
 <?php
 /**
  * User: Rowan van der Vleuten
- * Date: 7-2-2020
- * Time: 14:04
+ * Date: 14-2-2020
+ * Time: 12:05
  * File: index.php
  */
 ?>
@@ -19,7 +19,7 @@
                     <a href="opdracht2.1.php">Opdracht 2.1</a>
                 </li>
                 <li>
-                    <a href="hoofdstuk2/opdracht_2.2.php">Opdracht 2.2</a>
+                    <a href="hoofdstuk2/opdracht_2-2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>

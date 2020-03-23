@@ -7,8 +7,8 @@
  */
 ?>
 <?php
-include("includes/variabelen.php");
+include"variabelen.php";
 echo("<div class='footer'>");
-echo("&copy;2020 $year ");
+echo("&copy; $year ");
 echo("$name</div>");
 ?>

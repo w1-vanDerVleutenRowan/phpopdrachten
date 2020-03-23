@@ -12,7 +12,9 @@
 </header>
 <aside>
     <p><?php echo "Hello World!"; ?></p>
-    <a href=index.php>Terug</a>
+    <a href="../index.php">Terug</a>
 </aside>
-
+<?php
+    include "../../hoofdstuk4/4.1/opdracht4.1.php";
+?>
 </main>

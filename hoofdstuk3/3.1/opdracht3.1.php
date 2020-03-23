@@ -31,7 +31,10 @@ verreden en werd voor het eerst in " . $jaar . " gereden en wordt maximaal "
 </header>
 <aside>
     <p>
-        <?php echo $verhaal; ?>
+        <?php echo $verhaal;
+        include "../../hoofdstuk4/4.1/opdracht4.1.php";
+        ?>
+
     </p>
 </aside>
 <main>
